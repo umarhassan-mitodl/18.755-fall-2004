@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "ea6d32d1-2869-4ae6-58a3-c975dba2f217",
+  "instructors": {
+    "content": [
+      "840e43fc-ae42-d9d5-0798-7ff9adae095c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b1061f3c-5116-8f06-a49c-00484b0d175d",
+    "website": "18-755-introduction-to-lie-groups-fall-2004"
+  },
+  "course_title": "Introduction to Lie Groups",
+  "course_description": "This course is devoted to the theory of Lie Groups with emphasis on its connections with Differential Geometry. The text for this class is\u00a0{{% resource_link \"ff7234a9-ac91-4f43-89d1-db5e3747874e\" \"_Differential Geometry, Lie Groups and Symmetric Spaces_\" %}} by Sigurdur Helgason (American Mathematical Society, 2001).\n\nMuch of the course material is based on Chapter\u00a0I (first half) and Chapter\u00a0II of the text. The text however develops basic Riemannian Geometry, Complex Manifolds, as well as a detailed theory of Semisimple Lie Groups and Symmetric Spaces.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.755",
+  "course_image_thumbnail": {
+    "content": "ad9b6bd4-8c17-2cfa-9d80-2e4b4b917ea4",
+    "website": "18-755-introduction-to-lie-groups-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "88c20114-eaa6-4833-9fe1-0811f9661366",
+  "site_short_id": "18.755-fall-2004",
+  "site_url_path": "courses/18-755-introduction-to-lie-groups-fall-2004",
+  "title": "Course Metadata"
+}

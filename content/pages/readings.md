@@ -1,0 +1,182 @@
+---
+content_type: page
+description: This section provides the table of contents of the required textbook
+  for the course and a list of additional readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
+title: Readings
+uid: 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01
+---
+
+In addition to the table of contents of the required textbook, given below is a list of [additional readings](#additional) for the course.
+
+Required Textbook
+-----------------
+
+Helgason, Sigurdur. {{% resource_link "ff7234a9-ac91-4f43-89d1-db5e3747874e" "_Differential Geometry, Lie Groups, and Symmetric Spaces_" %}}. Providence, R.I.: American Mathematical Society, 2001. ISBN 0821828487.
+
+Table of Contents
+-----------------
+
+> Chapter I: Elementary Differential Geometry
+> -------------------------------------------
+> 
+> 1.  Manifolds
+> 2.  Tensor Fields
+>     1.  Vector Fields and 1-Forms
+>     2.  Tensor Algebra
+>     3.  The Grassman Algebra
+>     4.  Exterior Differentiation
+> 3.  Mappings
+>     1.  The Interpretation of the Jacobian
+>     2.  Transformation of Vector Fields
+>     3.  Effect on Differential Forms
+> 4.  Affine Connections
+> 5.  Parallelism
+> 6.  The Exponential Mapping
+> 7.  Covariant Differentiation
+> 8.  The Structural Equations
+> 9.  The Riemannian Connection
+> 10.  Complete Riemannian Manifolds
+> 11.  Isometries
+> 12.  Sectional Curvature
+> 13.  Riemannian Manifolds of Negative Curvature
+> 14.  Totally Geodesic Submanifolds
+> 15.  Appendix
+>     1.  Topology
+>     2.  Mappings of Constant Rank
+> 
+> Chapter II: Lie Groups and Lie Algebras
+> ---------------------------------------
+> 
+> 1.  The Exponential Mapping
+>     1.  The Lie Algebra of a Lie Group
+>     2.  The Universal Enveloping Algebra
+>     3.  Left Invariant Affine Connections
+>     4.  Taylor's Formula and the Differential of the Exponential Mapping
+> 2.  Lie Subgroups and Subalgebras
+> 3.  Lie Transformation Groups
+> 4.  Coset Spaces and Homogeneous Spaces
+> 5.  The Adjoint Group
+> 6.  Semisimple Lie Groups
+> 7.  Invariant Differential Forms
+> 8.  Perspectives
+> 
+> Chapter III: Structure of Semisimple Lie Algebras
+> -------------------------------------------------
+> 
+> 1.  Preliminaries
+> 2.  Theorems of Lie and Engel
+> 3.  Cartan Subalgebras
+> 4.  Root Space Decomposition
+> 5.  Significance of the Root Pattern
+> 6.  Real Forms
+> 7.  Cartan Decompositions
+> 8.  Examples. The Complex Classical Lie Algebras
+> 
+> Chapter IV: Symmetric Spaces
+> ----------------------------
+> 
+> 1.  Affine Locally Symmetric Spaces
+> 2.  Groups of Isometries
+> 3.  Riemannian Globally Symmetric Spaces
+> 4.  The Exponential Mapping and the Curvature
+> 5.  Locally and Globally Symmetric Spaces
+> 6.  Compact Lie Groups
+> 7.  Totally Geodesic Submanifolds. Lie Triple Systems
+> 
+> Chapter V: Decomposition of Symmetric Spaces
+> --------------------------------------------
+> 
+> 1.  Orthogonal Symmetric Lie Algebras
+> 2.  The Duality
+> 3.  Sectional Curvature of Symmetric Spaces
+> 4.  Symmetric Spaces with Semisimple Groups of Isometries
+> 5.  Notational Conventions
+> 6.  Rank of Symmetric Spaces
+> 
+> Chapter VI: Symmetric Spaces of the Noncompact Type
+> ---------------------------------------------------
+> 
+> 1.  Decomposition of a Semisimple Lie Group
+> 2.  Maximal Compact Subgroups and Their Conjugacy
+> 3.  The Iwasawa Decomposition
+> 4.  Nilpotent Lie Groups
+> 5.  Global Decompositions
+> 6.  The Complex Case
+> 
+> Chapter VII: Symmetric Spaces of the Compact Type
+> -------------------------------------------------
+> 
+> 1.  The Contrast between the Compact Type and the Noncompact Type
+> 2.  The Weyl Group and the Restricted Roots
+> 3.  Conjugate Points. Singular Points. The Diagram
+> 4.  Applications to Compact Groups
+> 5.  Control over the Singular Set
+> 6.  The Fundamental Group and the Center
+> 7.  The Affine Weyl Group
+> 8.  Application to the Symmetric Space _U/K_
+> 9.  Classification of Locally Isometric Spaces
+> 10.  Geometry of _U/K_. Symmetric Spaces of Rank One
+> 11.  Shortest Geodesics and Minimal Totally Geodesic Spheres
+> 12.  Appendix. Results from Dimension Theory
+> 
+> Chapter VIII: Hermitian Symmetric Spaces
+> ----------------------------------------
+> 
+> 1.  Almost Complex Manifolds
+> 2.  Complex Tensor Fields. The Ricci Curvature
+> 3.  Bounded Domains. The Kernel Function
+> 4.  Hermitian Symmetric Spaces of the Compact Type and the Noncompact Type
+> 5.  Irreducible Orthogonal Symmetric Lie Algebras
+> 6.  Irreducible Hermitian Symmetric Spaces
+> 7.  Bounded Symmetric Domains
+> 
+> Chapter IX: Structure of Semisimple Lie Groups
+> ----------------------------------------------
+> 
+> 1.  Cartan, Iwasawa, and Bruhat Decompositions
+> 2.  The Rank-One Reduction
+> 3.  The _SU_ (2,1) Reduction
+> 4.  Cartan Subalgebras
+> 5.  Automorphisms
+> 6.  The Multiplicities
+> 7.  Jordan Decompositions
+> 
+> Chapter X: The Classification of Simple Lie Algebras and of Symmetric Spaces
+> ----------------------------------------------------------------------------
+> 
+> 1.  Reduction of the Problem
+> 2.  The Classical Groups and Their Cartan Involutions
+>     1.  Some Matrix Groups and Their Lie Algebras
+>     2.  Connectivity Properties
+>     3.  The Involutive Automorphisms of the Classical Compact Lie Algebras
+> 3.  Root Systems
+>     1.  Generalities
+>     2.  Reduced Root Systems
+>     3.  Classification of Reduced Root Systems. Coxeter Graphs and Dynkin Diagrams
+>     4.  The Nonreduced Root Systems
+>     5.  The Highest Root
+>     6.  Outer Automorphisms and the Covering Index
+> 4.  The Classification of Simple Lie Algebras over _C_
+> 5.  Automorphisms of Finite Order of Semisimple Lie Algebras
+> 6.  The Classifications
+>     1.  The Simple Lie Algebras over _C_ and Their Compact Real Forms. The Irreducible Riemannian Globally Symmetric Spaces of Type II and Type IV
+>     2.  The Real Forms of Simple Lie Algebras over _C_. Irreducible Riemannian Globally Symmetric Spaces of Type I and Type IV
+>     3.  Irreducible Hermitian Symmetric Spaces
+>     4.  Coincidences between Different Classes. Special Isomorphisms
+
+{{< anchor "additional" >}}{{< /anchor >}}Additional Readings
+-------------------------------------------------------------
+
+The first two papers below are quite elementary and non-technical and are passed out at the very beginning of the course. They serve as motivation. The third one is more technical and is passed out near the end of the course.
+
+1.  Helgason, Sigurdur. "Sophus Lie, the mathematician" ({{% resource_link 256974d7-24f9-56b5-d22d-18d6d9935c9f "PDF - 1.2 MB" %}}). O.A. Laudal and B. Jahren (eds.) _The Sophus Lie Memorial Conference. Oslo 1992 Proceedings_ , Oslo: Universitetsforlaget (Scandinavian University Press) 1994.
+2.  Sophus Lie and the Role of Lie Groups in Mathematics ({{% resource_link 8c1bdffc-0741-4746-5da4-6483132092c4 "PDF" %}}). Opening lecture by Sigurdur Helgason at a Nordic Teachers Conference in Reykjavik 1990.
+3.  Reprinted with permission from Springer.  Helgason, Sigurdur. "A Centennial: Wilhelm Killing and the Exceptional Groups." ({{% resource_link 01236553-c5e3-5712-9532-61fdcf3c2be2 "PDF - 1.2MB" %}}) _The Mathematical Intelligencer_ 12, no. 3 (1990).
+
+For a thorough treatment of the history of the subject, see
+
+1.  Hawkins, Thomas. _The Emergence of the Theory of Lie Groups._ New York: Springer, 2000. ISBN: 0387989633.
+2.  Borel, Armand. _Essays in the History of Lie Groups and Algebraic Groups_. Providence, R.I.: American Mathematical Society, 2000. ISBN: 0821802887.
