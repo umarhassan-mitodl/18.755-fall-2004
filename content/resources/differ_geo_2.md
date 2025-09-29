@@ -5,6 +5,8 @@ description: This document contains solutions to exercises from Chapter II of th
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/a2d717d65d88aa75985465c33910280e_differ_geo_2.pdf
 file_size: 340521
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

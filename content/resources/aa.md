@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/67af0c7b59c11227969d869b31e73a5e_aa.jpg
 file_size: 8740
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

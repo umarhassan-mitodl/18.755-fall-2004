@@ -6,6 +6,8 @@ description: Text of a non-technical, introductory lecture given by the course i
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/8c1bdffc074147465da46483132092c4_helga_sophusl1_1.pdf
 file_size: 494580
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

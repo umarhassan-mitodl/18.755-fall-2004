@@ -13,11 +13,11 @@ These lecture notes were created using material from Prof. Helgason's books *Dif
 
 ## Source Textbooks
 
-All excerpts courtesy of the {{% resource_link "98eee336-fa1f-4ec9-a926-1b7593d4992b" "American Mathematical Society" %}}. Used with permission.
+All excerpts courtesy of the [American Mathematical Society](http://www.ams.org/). Used with permission.
 
-Helgason, Sigurdur. {{% resource_link "ff7234a9-ac91-4f43-89d1-db5e3747874e" "*Differential Geometry, Lie Groups, and Symmetric Spaces*" %}}. Providence, R.I.: American Mathematical Society, 2001. ISBN: 0821828487.
+Helgason, Sigurdur. [*Differential Geometry, Lie Groups, and Symmetric Spaces*](http://www.ams.org/bookstore?fn=20&arg1=gsmseries&item=GSM-34). Providence, R.I.: American Mathematical Society, 2001. ISBN: 0821828487.
 
-Helgason, Sigurdur. {{% resource_link "fe3d6eab-63df-49b7-8e6b-bcf939987411" "*Groups and Geometric Analysis*" %}}. Providence, R.I.: American Mathematical Society, 2000. ISBN: 0821826735.
+Helgason, Sigurdur. [*Groups and Geometric Analysis*](http://www.ams.org/bookstore?fn=20&arg1=survseries&item=SURV-83). Providence, R.I.: American Mathematical Society, 2000. ISBN: 0821826735.
 
 ## Referenced Textbooks
 

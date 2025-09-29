@@ -11,6 +11,8 @@ description: This document contains a summary of the lecture material. These lec
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/7620c82b3cf616a6439a9f66454452eb_chap1_ex_result.pdf
 file_size: 168892
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

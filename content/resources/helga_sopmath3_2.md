@@ -6,6 +6,8 @@ description: 'Course reading. Helgason, Sigurdur. "Sophus Lie, the mathematician
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/256974d724f956b5d22d18d6d9935c9f_helga_sopmath3_2.pdf
 file_size: 1253215
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

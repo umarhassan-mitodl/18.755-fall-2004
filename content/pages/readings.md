@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the table of contents of the required textbook
   for the course and a list of additional readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ In addition to the table of contents of the required textbook, given below is a 
 Required Textbook
 -----------------
 
-Helgason, Sigurdur. {{% resource_link "ff7234a9-ac91-4f43-89d1-db5e3747874e" "_Differential Geometry, Lie Groups, and Symmetric Spaces_" %}}. Providence, R.I.: American Mathematical Society, 2001. ISBN 0821828487.
+Helgason, Sigurdur. [_Differential Geometry, Lie Groups, and Symmetric Spaces_](http://www.ams.org/bookstore?fn=20&arg1=gsmseries&item=GSM-34). Providence, R.I.: American Mathematical Society, 2001. ISBN 0821828487.
 
 Table of Contents
 -----------------
